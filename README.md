@@ -1,2 +1,2 @@
 # Aerofit-case-study
-Aerofit
+Aerofit data analysis
